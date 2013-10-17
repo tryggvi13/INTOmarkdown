@@ -1,4 +1,4 @@
-#Open Source
+﻿#Open Source
 
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
 
@@ -9,7 +9,7 @@ Tryggvi Tryggvason
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
 Downloadadi VM virtual box og 64 bita Mint, 64 bita virkadi ekki tannig ad eg downloadadi 32 mint og ta voru engin vandamal med ad runna VM en forritid slo internettenginguna hja windows alveg ut af laginu tvi ad windows stod fast a tvi ad tad vaeri miklu betra ad nota virtual ethernet kapalinn sem var allt i einu tengdur frekar en ad nota tradlausa netid. en allt kom a endanum.
-Vona innilega ad screenshot-id hafi komid med.. :$
+http://imgur.com/huiVCoA
 
 ## 2. Uppsetning á vim && git
 
